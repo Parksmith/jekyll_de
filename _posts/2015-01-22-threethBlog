@@ -1,0 +1,9 @@
+---
+layout: default
+title: threethBlog
+---
+<html>
+<body>
+  <div width="1200px" height="200px" bgcolor="#f0f0f0"></div>
+</body>
+</html>
