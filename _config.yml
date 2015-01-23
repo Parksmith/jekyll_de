@@ -1,3 +1,4 @@
 baseurl: /jekyll_de
 markdown: rdiscount
 pygments: true
+permalink: /:title /github-pages
